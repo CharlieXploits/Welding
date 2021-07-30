@@ -12,6 +12,16 @@ Frames
 Frame(Wait,Frames,TimePerFrame,callback)
 ```
 # Steg 3,
+Reanimation
+```lua
+Reanimate(<Reanimation>)
+```
+# Steg 4,
+TouchFling
+```lua
+TouchFling(<Hat >)
+```
+# Steg 5,
 Animation Exempel
 ```lua
 while Humanoid.Health > 0 do
